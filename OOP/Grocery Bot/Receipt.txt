@@ -1,0 +1,9 @@
+Grocery Store Receipt
+
+Here are your purchases:
+Admiral Crunch Cereal @ $4.00 per box
+	x5 = $20.00
+
+Total = $20.00
+
+Thank you!
